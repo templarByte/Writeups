@@ -1,0 +1,3 @@
+# Resolved Tasks in 2020 CTF Events...
+
+Here you will find the writeups of the resolved tasks during 2020
