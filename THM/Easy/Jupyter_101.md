@@ -69,7 +69,7 @@ The link to the supporting material in the task description is dead...
 
 Task Description:
 
-> Enter the "WhatIsJupyter" directory and launch "WhatIsJupyter.ipynb" and have a read through.
+> Enter the "WhatIsJupyter" directory and launch "WhatIsJupyter.ipynb" and have a read through.<br>
 > There's no questions, but I detail some use cases of Jupyter and why someone might use it over an IDLE such as PyCharm! 
 
 
