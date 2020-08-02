@@ -73,7 +73,7 @@ Task Description:
 > There's no questions, but I detail some use cases of Jupyter and why someone might use it over an IDLE such as PyCharm! 
 
 
-Not much to do here...
+Not much to do here, just reading...
 
 ## Task 5 - Understanding how Jupiter Notebooks Run
 
