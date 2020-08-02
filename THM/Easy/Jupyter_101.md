@@ -77,4 +77,35 @@ Not much to do here, just reading...
 
 ## Task 5 - Understanding how Jupiter Notebooks Run
 
+### 1. What do "Cell" act like?
+
+Reading the contents of the document...
+
+**interpreter**
+
+### 2. What would be the In[#] value of the first Cell when it is ran for the first time? (Where # would be the numerical value)
+
+In the document previously opened, I find the referenced values on the left side of each Cell...
+
+**1**
+
+### 3. What keyboard shortcut can you press to execute a cell?
+
+Checking the Help Menu, I find the "Keyboard shortcuts" option...
+
+**Shift + Enter**
+
+### 4. If you was to execute the first Cell again, what would the value of In[#] now become? (Where # would be the numerical value)
+
+I press the "Run" botton twice, since I didn´t do it previously...
+
+**2**
+
+## Task 6 - Interacting with the Filesystem!
+
+
+
+
+
+
 
