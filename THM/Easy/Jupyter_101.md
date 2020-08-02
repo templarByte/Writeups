@@ -103,8 +103,54 @@ I press the "Run" botton twice, since I didn´t do it previously...
 
 ## Task 6 - Interacting with the Filesystem!
 
+The task description asks to **ssh** login with the following credentials:
 
+> Username: thm
+> Password: tryhackme
 
+So, I do it like this...
+
+***ssh -l thm 10.10.111.168***
+
+~~~
+The authenticity of host '10.10.111.168 (10.10.111.168)' can't be established.
+ECDSA key fingerprint is SHA256:Hy75v4qT0TD6cCRRbTv/r5/NZRMnP+2Eqm/a/91xzoM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '10.10.111.168' (ECDSA) to the list of known hosts.
+thm@10.10.111.168's password: 
+~~~
+
+**ls**
+
+~~~
+thm@thm-jupyter101-vm:~$ ls
+'Interesting Notebooks'   IntroToMatplotlib   IntroToPandas   socials.txt   UnderstandingJupyterNotebooks   WhatIsJupyter
+thm@thm-jupyter101-vm:~$ 
+~~~
+
+The task description asks to create a file there...
+
+**touch LookAtMe.txt**
+
+~~~
+thm@thm-jupyter101-vm:~$ ls
+'Interesting Notebooks'   IntroToMatplotlib   IntroToPandas   LookAtMe.txt   socials.txt   UnderstandingJupyterNotebooks   WhatIsJupyter
+thm@thm-jupyter101-vm:~$ 
+~~~
+
+And I verify that it shows in the web browser...
+
+I enter the well known *"Hello World!"* text, and go to "File" > "Save" in the web browser.
+
+I verify it in the terminal with:
+
+**cat LookAtMe.txt**
+
+~~~
+Hello World!
+~~~
+
+## Task 7 - Handling Data with Pandas
 
 
 
