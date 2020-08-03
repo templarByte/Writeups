@@ -1,3 +1,5 @@
+![Image not available](https://tryhackme-images.s3.amazonaws.com/room-icons/6af472e6f06cb228516881754e348353.png "Jupyter 101 room at TryHackMe")
+
 # Jupyter 101
 
 A friendly introduction into using the Jupyter Notebook environment. Learn to process and visualise data!
