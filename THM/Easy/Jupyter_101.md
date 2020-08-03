@@ -1,6 +1,4 @@
-<img src="imgs/jupyterlogo.png" alt="Jupyter room logo at TryHackMe" width="80"/>
-
-# Jupyter 101
+# <img src="imgs/jupyterlogo.png" alt="Jupyter room logo at TryHackMe" width="80"/> Jupyter 101
 
 A friendly introduction into using the Jupyter Notebook environment. Learn to process and visualise data!
 
