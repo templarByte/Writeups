@@ -1,4 +1,4 @@
-![Image not available](/imgs/jupyterlogo.png)
+![Image not available](imgs/jupyterlogo.png)
 
 # Jupyter 101
 
