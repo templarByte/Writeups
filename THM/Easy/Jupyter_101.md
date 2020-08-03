@@ -190,7 +190,39 @@ I open the "IntroToMatplotlib" directory, and run the "IntroToMatplotlib.ipynb" 
 
 ### 1. How do you display a plot? 
 
+This is mentioned at In [3]
+
+**plot()**
+
+### 2. How would you label the "x" axis on a plot?
+
+Above In [5]:
+
+**xlabel**
+
+### 3. How would you label the "y" axis on a plot?
+
+Following the pattern...
+
+**ylabel**
+
+### 4. How would you add a "Title" to a plot?
+
+Found at In [5]
+
+**title**
+
+### 5. What word would you use to change the color of the plot?
+
+Found at In[7]:
+
+**color**
+
+### 6. How would you label the "z" axis on a plot?
+
+Following the pattern...
+
+**zlabel**
 
 
-
-
+That´s it, room finished.
