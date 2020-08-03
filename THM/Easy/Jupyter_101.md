@@ -1,4 +1,4 @@
-<img src="imgs/jupyterlogo.png" alt="Jupyter room logo at TryHackMe" width="50"/>
+<img src="imgs/jupyterlogo.png" alt="Jupyter room logo at TryHackMe" width="80"/>
 
 # Jupyter 101
 
