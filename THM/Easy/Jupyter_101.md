@@ -152,6 +152,45 @@ Hello World!
 
 ## Task 7 - Handling Data with Pandas
 
+I open the "IntroToPandas" directory in the web browser and run the "IntroToPandas.ipynb" document to read it's contents.
+
+### 1. What are the two main types of data within Pandas?
+
+I find this information in the very first page...
+
+**series and dataframes**
+
+### 2. What is the name of the Pandas function that reads a CSV file?
+
+I notice this information under In [7]...
+
+**read_csv**
+
+### 3. Name the Pandas function you would use if you only wanted to display the first few rows
+
+I find this under In [9]
+
+**head**
+
+### 4. Name the Pandas function you would use if you only wanted to display the last few rows
+
+This can be found under In [10]...
+
+**tail**
+
+### 5. What Pandas function will give you a numerical count of the amount of columns and rows the dataset contains?
+
+This is under In [11]:
+
+**shape**
+
+## Task 8 - Visualizing Data With Matplotlib
+
+I open the "IntroToMatplotlib" directory, and run the "IntroToMatplotlib.ipynb" document to read the annotations there...
+
+### 1. How do you display a plot? 
+
+
 
 
 
