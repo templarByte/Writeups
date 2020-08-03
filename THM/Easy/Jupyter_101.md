@@ -1,4 +1,4 @@
-![Image not available](imgs/jupyterlogo.png)
+<img src="imgs/jupyterlogo.png" alt="Jupyter room logo at TryHackMe" width="50"/>
 
 # Jupyter 101
 
